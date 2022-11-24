@@ -5,6 +5,6 @@
 - 📞: Light Dev#9482
 - 🎉: Meu Token Não Está No Bot, Então Nem Tente.
 - ☄️: Configure O Token Em "main.py"
-- 📃: Prefixo Inicial Dele É "d!"
+- 📃: Prefixo Inicial Dele É "?"
 
 
